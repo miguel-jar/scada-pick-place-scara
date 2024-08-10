@@ -1,0 +1,196 @@
+﻿[06/12/24 17:49:59]: ----------------------------------------------- {6b495320}
+[06/12/24 17:49:59]: Logger started (1048576) {29c8b8a5}
+[06/12/24 17:50:03]: <0x0003> CPU board: TEKNOR ?Mhz; ?Mb RAM; no FPGAMb disk; bios: ?; fpga: ?; ataIde: ? {dadd8d79}
+[06/12/24 17:50:03]: <0x0003> Cycle time set to 0.004s {665677cc}
+[06/12/24 17:50:03]: <0x0003> Simulation cycle time set to 0.1s {37f3cb34}
+[06/12/24 17:50:03]: <0x0002> Controller IP address could not be updated {c989ddd0}
+[06/12/24 17:50:03]: <0x0003> Mcp = TSimulated {e38e5dce}
+[06/12/24 17:50:03]: <0x340A> Mcp communication established {0fb102a8}
+[06/12/24 17:50:03]: <0x0002> Default user payload used. {5d6931c9}
+[06/12/24 17:50:03]: <0x0003> Payload default: mass=2 kg, gravity center: x=0 y=0 z=0 mm, diag inertia: xx=0 yy=0 zz=0.05 kg.m^2 {506cf5fe}
+[06/12/24 17:50:03]: <0x2401> Power hour count = 0:00:00 {cee7f6d9}
+[06/12/24 17:50:03]: <0x2401> Mac Address = f8-b1-56-fd-1a-cb {4f579ed8}
+[06/12/24 17:50:03]: <0x0003> COM-PC: server created on all interfaces [851] {2a8fa7f7}
+[06/12/24 17:50:03]: <0x1805> Working mode:invalid. {f74a88cc}
+[06/12/24 17:50:03]: <0x2402> History handler has been connected to IHM {d353fe15}
+[06/12/24 17:50:03]: <0x2401> System: s7.11 Jun  3 2019 {d613c65d}
+[06/12/24 17:50:03]: <0x2401> Configuration Version: c1.045  {b6d88b06}
+[06/12/24 17:50:03]: <0x2401> CPU: TEKNOR  {966c5e2b}
+[06/12/24 17:50:03]: <0x2401> Option testMode: enabled  {d82d63f3}
+[06/12/24 17:50:03]: <0x2401> Option VAL 3: enabled  {c8fbd366}
+[06/12/24 17:50:03]: <0x2401> Machine Number: ?  {07636d43}
+[06/12/24 17:50:03]: <0x2401> Arm: ts60-S2-D25-L200-floor-R1 floor {b73a30bf}
+[06/12/24 17:50:03]: <0x2401> Arm serial number: ?  {768c305d}
+[06/12/24 17:50:03]: <0x2401> Arm oil type:   {66f79273}
+[06/12/24 17:50:03]: <0x2401> Robot name:   {250ea770}
+[06/12/24 17:50:03]: <0x2401> EP: s7.11 Jun  3 2019 {1c4daff6}
+[06/12/24 17:50:03]: <0x2401> EP10: s7.11 Jun  3 2019 {db1ed1e5}
+[06/12/24 17:50:03]: <0x2401> EP20: s7.11 Jun  3 2019 {5dde311c}
+[06/12/24 17:50:03]: <0x2401> SCA: s7.11 Jun  3 2019 {0d81d39f}
+[06/12/24 17:50:03]: <0x2401> B_SCS: s7.11 Jun  3 2019 {6839cd89}
+[06/12/24 17:50:03]: <0x2201> New profile : default {30dc3f47}
+[06/12/24 17:50:04]: <0x2401> End of controller initialization 0 {f2bfa2e1}
+[06/12/24 17:50:04]: <0x1802> Working mode:manual. {6d058c35}
+[06/12/24 17:50:04]: <0x2402> COM-PC: create session 127.0.0.1 on port 57845 id=#55633360 {e3f07a6f}
+[06/12/24 17:50:04]: <0x1602> End of arm power shutdown phase. {5b8c3c08}
+[06/12/24 17:50:09]: <0x2401> Saving controller context... {8de2a624}
+[06/12/24 17:50:09]: <0x2402> Controller temperature: 28°C {45dba245}
+[06/12/24 17:50:09]: <0x2402> CPU temperature: 28°C {1d66e75f}
+[06/12/24 17:50:20]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 57845 id=#55633360 {abb57dc3}
+[06/12/24 17:53:16]: <0x4E01> Project C:\Users\supervisorio\Documents\miguel_a214_trabalho_final\ProjetoMiguelA214\Controller1\usr/usrapp/projetoMiguel saved. {bd7cbab8}
+[06/12/24 18:07:47]: <0x4E01> Project C:\Users\supervisorio\Documents\miguel_a214_trabalho_final\ProjetoMiguelA214\Controller1\usr/usrapp/projetoMiguel saved. (11) {91756d13}
+[06/12/24 18:07:52]: <0x2402> MCP communication disconnected {f3bfd8f2}
+[06/15/24 08:36:25]: ----------------------------------------------- {6f20e61d}
+[06/15/24 08:36:25]: Logger started (1048576) {c8901f55}
+[06/15/24 08:36:29]: <0x0003> CPU board: TEKNOR ?Mhz; ?Mb RAM; no FPGAMb disk; bios: ?; fpga: ?; ataIde: ? {b1710f97}
+[06/15/24 08:36:29]: <0x0003> Cycle time set to 0.004s {fd7a96cf}
+[06/15/24 08:36:29]: <0x0003> Simulation cycle time set to 0.1s {45f1fa48}
+[06/15/24 08:36:29]: <0x0002> Controller IP address could not be updated {5179c8cd}
+[06/15/24 08:36:29]: <0x0003> Mcp = TSimulated {542788ff}
+[06/15/24 08:36:29]: <0x340A> Mcp communication established {add92730}
+[06/15/24 08:36:29]: <0x0002> Default user payload used. {b9926df3}
+[06/15/24 08:36:29]: <0x0003> Payload default: mass=2 kg, gravity center: x=0 y=0 z=0 mm, diag inertia: xx=0 yy=0 zz=0.05 kg.m^2 {f259e851}
+[06/15/24 08:36:29]: <0x2401> Power hour count = 0:00:00 {b49f25a7}
+[06/15/24 08:36:29]: <0x2401> Mac Address = f8-b1-56-fd-1a-cb {d5a6e3e2}
+[06/15/24 08:36:29]: <0x0003> COM-PC: server created on all interfaces [851] {76a41603}
+[06/15/24 08:36:30]: <0x1805> Working mode:invalid. {92cb1f24}
+[06/15/24 08:36:30]: <0x2402> History handler has been connected to IHM {35cae653}
+[06/15/24 08:36:30]: <0x2401> System: s7.11 Jun  3 2019 {cd370b10}
+[06/15/24 08:36:30]: <0x2401> Configuration Version: c1.045  {8a4f0b97}
+[06/15/24 08:36:30]: <0x2401> CPU: TEKNOR  {24b793d9}
+[06/15/24 08:36:30]: <0x2401> Option testMode: enabled  {42bf3337}
+[06/15/24 08:36:30]: <0x2401> Option VAL 3: enabled  {322c0b3e}
+[06/15/24 08:36:30]: <0x2401> Machine Number: ?  {f08370d7}
+[06/15/24 08:36:30]: <0x2401> Arm: ts60-S2-D25-L200-floor-R1 floor {bd04ce0b}
+[06/15/24 08:36:30]: <0x2401> Arm serial number: ?  {1a48ed8a}
+[06/15/24 08:36:30]: <0x2401> Arm oil type:   {0a7f69f1}
+[06/15/24 08:36:30]: <0x2401> Robot name:   {0a0aabf9}
+[06/15/24 08:36:30]: <0x2401> EP: s7.11 Jun  3 2019 {759dfa6e}
+[06/15/24 08:36:30]: <0x2401> EP10: s7.11 Jun  3 2019 {c33aa5df}
+[06/15/24 08:36:30]: <0x2401> EP20: s7.11 Jun  3 2019 {4dd2519c}
+[06/15/24 08:36:30]: <0x2401> SCA: s7.11 Jun  3 2019 {07b32b9a}
+[06/15/24 08:36:30]: <0x2401> B_SCS: s7.11 Jun  3 2019 {fd2e0a34}
+[06/15/24 08:36:30]: <0x2201> New profile : default {1b8dc30f}
+[06/15/24 08:36:30]: <0x0003> COM-PC: create session 127.0.0.1 on port 63484 id=#53535832 {2b5ddc8d}
+[06/15/24 08:36:30]: <0x2401> End of controller initialization 0 {18299ad1}
+[06/15/24 08:36:30]: <0x1802> Working mode:manual. {882a3dbf}
+[06/15/24 08:36:30]: <0x1602> End of arm power shutdown phase. {f126b3cc}
+[06/15/24 08:36:35]: <0x2401> Saving controller context... {4ca09da9}
+[06/15/24 08:36:35]: <0x2402> Controller temperature: 28°C {1934da9b}
+[06/15/24 08:36:35]: <0x2402> CPU temperature: 28°C {0aa98c51}
+[06/15/24 08:36:49]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 63484 id=#53535832 {1427b765}
+[06/15/24 08:42:42]: <0x2402> Joint  targets [0]  modified {d418b070}
+[06/15/24 08:42:54]: <0x2402> Joint  targets [1]  modified {827bfad1}
+[06/15/24 08:43:06]: <0x2402> Joint  targets [2]  modified {d2d5805e}
+[06/15/24 08:43:07]: <0x4E01> Project C:\Users\supervisorio\Documents\miguel_a214_trabalho_final\ProjetoMiguelA214\Controller2\usr/usrapp/projetoA214 saved. {1da81e4e}
+[06/15/24 08:43:08]: <0x4E01> Project C:\Users\supervisorio\Documents\miguel_a214_trabalho_final\ProjetoMiguelA214\Controller2\usr/usrapp/projetoA214 saved. (2) {67afc5d4}
+[06/15/24 08:43:24]: <0x2402> Joint  targets [3]  modified {21cffbdb}
+[06/15/24 08:43:38]: <0x2402> Joint  targets [4]  modified {6e119104}
+[06/15/24 08:44:14]: <0x2402> Joint  targets [5]  modified {1c77ea46}
+[06/15/24 08:44:31]: <0x2402> Joint  targets [6]  modified {d9142af4}
+[06/15/24 08:45:04]: <0x2402> Joint  targets [7]  modified {be7078b0}
+[06/15/24 08:45:19]: <0x2402> Joint  targets [8]  modified {5158428f}
+[06/15/24 08:45:33]: <0x2402> Joint  targets [9]  modified {e7622a89}
+[06/15/24 08:45:49]: <0x2402> Joint  targets [10]  modified {f2b1b2fc}
+[06/15/24 08:45:49]: <0x4E01> Project C:\Users\supervisorio\Documents\miguel_a214_trabalho_final\ProjetoMiguelA214\Controller2\usr/usrapp/projetoA214 saved. {eb87d4e3}
+[06/15/24 08:46:04]: <0x2402> Joint  targets [11]  modified {a95b1f12}
+[06/15/24 08:46:06]: <0x4E01> Project C:\Users\supervisorio\Documents\miguel_a214_trabalho_final\ProjetoMiguelA214\Controller2\usr/usrapp/projetoA214 saved. {7031bcda}
+[06/15/24 08:52:43]: <0x4E01> Project C:\Users\supervisorio\Documents\miguel_a214_trabalho_final\ProjetoMiguelA214\Controller2\usr/usrapp/projetoA214 saved. (9) {f2af500f}
+[06/15/24 08:53:59]: <0x2401> Saving controller context... {d73b96ce}
+[06/15/24 08:54:01]: <0x4E01> Project C:\Users\supervisorio\Documents\miguel_a214_trabalho_final\ProjetoMiguelA214\Controller2\usr/usrapp/projetoA214 saved. {5323a61b}
+[06/15/24 08:54:23]: <0x4E01> Project C:\Users\supervisorio\Documents\miguel_a214_trabalho_final\ProjetoMiguelA214\Controller2\usr/usrapp/projetoA214 saved. (2) {10f9d4ef}
+[06/15/24 08:54:50]: <0x5A03> Deadman validated {6285523a}
+[06/15/24 08:54:51]: <0x1603> Settling arm power... {ea1d8d7f}
+[06/15/24 08:54:51]: <0x1601> Arm power settled. {79d63348}
+[06/15/24 08:55:07]: <0x5A01> Deadman enabled. {5b0a4c15}
+[06/15/24 08:55:09]: <0x2402> COM-PC: create session 127.0.0.1 on port 63771 id=#53535936 {c70c80ed}
+[06/15/24 08:55:33]: <0x5A02> Deadman disabled. {a7eb1ec8}
+[06/15/24 08:55:33]: <0x1627> Arm power shutdown: working mode change. {1a3276d3}
+[06/15/24 08:55:33]: <0x1604> Arm power shutdown... {8e997be4}
+[06/15/24 08:55:33]: <0x1803> Working mode:test. {a35ecbff}
+[06/15/24 08:55:34]: <0x1602> End of arm power shutdown phase. {9229f777}
+[06/15/24 08:55:39]: <0x1804> Working mode:remote. {a961529d}
+[06/15/24 08:55:40]: <0x1801> Working mode:automatic. {3adb6575}
+[06/15/24 08:55:41]: <0x5A03> Deadman validated {6d486d81}
+[06/15/24 08:55:41]: <0x1603> Settling arm power... {20df6e50}
+[06/15/24 08:55:42]: <0x1601> Arm power settled. {11bb400e}
+[06/15/24 08:55:57]: <0x5A01> Deadman enabled. {5c951e30}
+[06/15/24 08:56:50]: <0x5402> projetoA214 application started {2f52a96a}
+[06/15/24 08:56:50]: <0x5403> projetoA214 application stopped {0be47c66}
+[06/15/24 08:56:58]: <0x5402> projetoA214 application started {e1af0ea2}
+[06/15/24 08:56:58]: <0x5403> projetoA214 application stopped {1fd6235a}
+[06/15/24 08:57:04]: <0x5402> projetoA214 application started {20b3dad9}
+[06/15/24 08:57:05]: <0x5403> projetoA214 application stopped {8a666f70}
+[06/15/24 08:57:12]: <0x5402> projetoA214 application started {f99fed6f}
+[06/15/24 08:57:12]: <0x5403> projetoA214 application stopped {6cece78f}
+[06/15/24 08:57:27]: <0x5402> projetoA214 application started {632ed192}
+[06/15/24 08:57:27]: <0x5403> projetoA214 application stopped {4764dd65}
+[06/15/24 08:57:56]: <0x5402> projetoA214 application started {87f5bb0f}
+[06/15/24 08:57:56]: <0x5403> projetoA214 application stopped {045447b7}
+[06/15/24 08:58:51]: <0x5402> projetoA214 application started {afe9ce56}
+[06/15/24 08:58:51]: <0x5403> projetoA214 application stopped {12aa0b64}
+[06/15/24 08:59:23]: <0x5402> projetoA214 application started {ff6e260b}
+[06/15/24 08:59:23]: <0x5403> projetoA214 application stopped {4126c0f3}
+[06/15/24 09:04:04]: <0x4E01> Project E:/projetoA214 saved. {4a324339}
+[06/15/24 09:05:17]: <0x1A03> System event INTERFACE-Stopped  (Application manager) {935fd831}
+[06/15/24 09:05:17]: <0x1A04> System event INTERFACE-Stopped  (Application manager). 6 events lost. {6d1ffcae}
+[06/15/24 09:08:43]: <0x4E01> Project C:\Users\supervisorio\Documents\miguel_a214_trabalho_final\ProjetoMiguelA214\Controller2\usr/usrapp/projetoA214 saved. {6a709902}
+[06/15/24 09:25:06]: <0x2401> Saving controller context... {5ddee32c}
+[06/15/24 09:55:15]: <0x2401> Saving controller context... (1) {dbed01a3}
+[06/15/24 10:12:46]: <0x4E01> Project C:\Users\supervisorio\Documents\miguel_a214_trabalho_final\ProjetoMiguelA214\Controller2\usr/usrapp/projetoA214 saved. {68bf4740}
+[06/15/24 10:18:43]: <0x4E01> Project C:\Users\supervisorio\Documents\miguel_a214_trabalho_final\ProjetoMiguelA214\Controller2\usr/usrapp/projetoA214 saved. (9) {7cb85c75}
+[06/15/24 10:19:02]: <0x4E01> Project E:/projetoMiguel saved. {3e8298ad}
+[06/15/24 10:19:04]: <0x4E01> Project C:\Users\supervisorio\Documents\miguel_a214_trabalho_final\ProjetoMiguelA214\Controller2\usr/usrapp/projetoA214 saved. {a12780e3}
+[06/15/24 10:24:08]: <0x4E01> Project C:\Users\supervisorio\Documents\miguel_a214_trabalho_final\ProjetoMiguelA214\Controller2\usr/usrapp/projetoA214 saved. (6) {5f853eb5}
+[06/15/24 10:24:33]: <0x4E01> Project C:\Users\supervisorio\Documents\miguel_a214_trabalho_final\ProjetoMiguelA214\Controller2\usr/usrapp/projetoMiguel saved. {5b63ceaa}
+[06/15/24 10:25:24]: <0x2401> Saving controller context... {1fbfd129}
+[06/15/24 10:31:06]: <0x4E01> Project C:\Users\supervisorio\Documents\miguel_a214_trabalho_final\ProjetoMiguelA214\Controller2\usr/usrapp/projetoA214 saved. {2a714ae5}
+[06/15/24 10:31:08]: <0x4E01> Project C:\Users\supervisorio\Documents\miguel_a214_trabalho_final\ProjetoMiguelA214\Controller2\usr/usrapp/projetoA214 saved. (2) {0598f07d}
+[06/15/24 10:32:13]: <0x4E01> Project C:\Users\supervisorio\Documents\miguel_a214_trabalho_final\ProjetoMiguelA214\Controller2\usr/usrapp/projetoMiguel saved. {75a1f7d2}
+[06/15/24 10:33:02]: <0x4E01> Project E:/projetoMiguel saved. {6ff2de43}
+[06/15/24 10:33:03]: <0x4E01> Project C:\Users\supervisorio\Documents\miguel_a214_trabalho_final\ProjetoMiguelA214\Controller2\usr/usrapp/projetoA214 saved. {8413a8fb}
+[06/15/24 10:55:33]: <0x2401> Saving controller context... {ed1326f8}
+[06/15/24 11:21:36]: <0x4E01> Project C:\Users\supervisorio\Documents\miguel_a214_trabalho_final\ProjetoMiguelA214\Controller2\usr/usrapp/projetoA214 saved. {dba8a275}
+[06/15/24 11:21:36]: <0x4E01> Project C:\Users\supervisorio\Documents\miguel_a214_trabalho_final\ProjetoMiguelA214\Controller2\usr/usrapp/projetoA214 saved. (1) {cb8ec8f9}
+[06/15/24 11:21:41]: <0x2402> MCP communication disconnected {09df11b8}
+[06/15/24 11:21:41]: <0x1627> Arm power shutdown: working mode change. {5ffade5e}
+[06/15/24 11:21:41]: <0x1604> Arm power shutdown... {0a78e160}
+[06/15/24 11:39:16]: ----------------------------------------------- {42813bf2}
+[06/15/24 11:39:16]: Logger started (1048576) {6425681a}
+[06/15/24 11:39:20]: <0x0003> CPU board: TEKNOR ?Mhz; ?Mb RAM; no FPGAMb disk; bios: ?; fpga: ?; ataIde: ? {b0a17d53}
+[06/15/24 11:39:20]: <0x0003> Cycle time set to 0.004s {e7f17683}
+[06/15/24 11:39:20]: <0x0003> Simulation cycle time set to 0.1s {356c0658}
+[06/15/24 11:39:20]: <0x0002> Controller IP address could not be updated {d4b713be}
+[06/15/24 11:39:20]: <0x0003> Mcp = TSimulated {b8b12832}
+[06/15/24 11:39:20]: <0x340A> Mcp communication established {39f516e5}
+[06/15/24 11:39:20]: <0x0002> Default user payload used. {852de119}
+[06/15/24 11:39:20]: <0x0003> Payload default: mass=2 kg, gravity center: x=0 y=0 z=0 mm, diag inertia: xx=0 yy=0 zz=0.05 kg.m^2 {ce093075}
+[06/15/24 11:39:20]: <0x2401> Power hour count = 1:50:51 {d0fe78f2}
+[06/15/24 11:39:20]: <0x2401> Mac Address = f8-b1-56-fd-1a-cb {514959cd}
+[06/15/24 11:39:20]: <0x0003> COM-PC: server created on all interfaces [851] {a1788d67}
+[06/15/24 11:39:20]: <0x2402> History handler has been connected to IHM {77c8c87a}
+[06/15/24 11:39:20]: <0x2401> System: s7.11 Jun  3 2019 {47ee7c74}
+[06/15/24 11:39:20]: <0x2401> Configuration Version: c1.045  {f80c4f4f}
+[06/15/24 11:39:20]: <0x2401> CPU: TEKNOR  {e64aa495}
+[06/15/24 11:39:20]: <0x2401> Option testMode: enabled  {5eecaa1f}
+[06/15/24 11:39:20]: <0x2401> Option VAL 3: enabled  {6e262581}
+[06/15/24 11:39:20]: <0x2401> Machine Number: ?  {8e107c1d}
+[06/15/24 11:39:20]: <0x2401> Arm: ts60-S2-D25-L200-floor-R1 floor {c0dc18ed}
+[06/15/24 11:39:20]: <0x2401> Arm serial number: ?  {7b53f900}
+[06/15/24 11:39:20]: <0x2401> Arm oil type:   {6be2c840}
+[06/15/24 11:39:20]: <0x2401> Robot name:   {a8d0a2aa}
+[06/15/24 11:39:20]: <0x2401> EP: s7.11 Jun  3 2019 {89a044de}
+[06/15/24 11:39:20]: <0x2401> EP10: s7.11 Jun  3 2019 {935b63ab}
+[06/15/24 11:39:20]: <0x2401> EP20: s7.11 Jun  3 2019 {9230a0ea}
+[06/15/24 11:39:20]: <0x2401> SCA: s7.11 Jun  3 2019 {5203c3fa}
+[06/15/24 11:39:20]: <0x2401> B_SCS: s7.11 Jun  3 2019 {d19d7919}
+[06/15/24 11:39:20]: <0x2201> New profile : default {683a88ef}
+[06/15/24 11:39:20]: <0x0003> COM-PC: create session 127.0.0.1 on port 52283 id=#47245064 {58b108c5}
+[06/15/24 11:39:20]: <0x2401> End of controller initialization 0 {762d7617}
+[06/15/24 11:39:20]: <0x1801> Working mode:automatic. {12dfe3c2}
+[06/15/24 11:39:21]: <0x1602> End of arm power shutdown phase. {a7d8ab66}
+[06/15/24 11:39:28]: <0x5301> Project C:\Users\supervisorio\Documents\miguel_a214_trabalho_final\ProjetoMiguelA214\Controller1\usr/usrapp/newProject1 deleted. {bf82b4df}
+[06/15/24 11:39:31]: <0x2402> COM-PC: destroy session 127.0.0.1 on port 52283 id=#47245064 {1a02c9d1}
+[06/15/24 11:39:31]: <0x5301> Project C:\Users\supervisorio\Documents\miguel_a214_trabalho_final\ProjetoMiguelA214\Controller1\usr/usrapp/projetoA214 deleted. {b43c2132}
+[06/15/24 11:39:33]: <0x5301> Project C:\Users\supervisorio\Documents\miguel_a214_trabalho_final\ProjetoMiguelA214\Controller1\usr/usrapp/projetoMiguel deleted. {640552d1}
+[06/15/24 11:40:04]: <0x4E01> Project C:\Users\supervisorio\Documents\miguel_a214_trabalho_final\ProjetoMiguelA214\Controller1\usr/usrapp/projetoMiguel saved. {9da3dce7}

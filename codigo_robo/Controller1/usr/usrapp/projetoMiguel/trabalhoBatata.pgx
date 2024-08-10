@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Programs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.staubli.com/robotics/VAL3/Program/2" >
+  <Program name="trabalhoBatata" access="private" >
+    <Code><![CDATA[begin
+  movej(home,garra,mNomSpeed)
+  dioSet(saida,0)
+  while true
+    if start==false
+      if tipoPar==false
+        origem=dioGet(entradas)
+      else
+        destino=dioGet(entradas)
+      endIf
+    else
+      movej(app[origem],garra,mNomSpeed)
+      waitEndMove()
+      movej(targets[origem],garra,mDownSpeed)
+      waitEndMove()
+      dioSet(saida,1)
+      delay(0.3)
+      movej(app[origem],garra,mUpSpeed)
+      waitEndMove()
+      movej(app[destino],garra,mNomSpeed)
+      waitEndMove()
+      movej(targets[destino],garra,mDownSpeed)
+      waitEndMove()
+      dioSet(saida,0)
+      delay(0.3)
+      movej(app[destino],garra,mUpSpeed)
+      waitEndMove()
+      movej(home,garra,mNomSpeed)
+      waitEndMove()
+    endIf
+  endWhile
+end]]></Code>
+  </Program>
+</Programs>
