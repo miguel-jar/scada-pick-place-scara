@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<OpcUaSource Date="12/06/2024 15:46:48" Version="4.1.14.40 SP" FileVersion="1">
+  <DefaultView>
+    <Module>
+      <Variable Name="DESTINO" Enable="True" />
+      <Variable Name="ORIGEM" Enable="True" />
+      <Variable Name="START_MOVE" Enable="True" />
+    </Module>
+  </DefaultView>
+</OpcUaSource>

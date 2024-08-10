@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?AutomationStudio Version="4.1.14.40 SP"?>
+<ProjectOptions
+  IecNamingConventions="true"
+  IecKeywordsAsStructureMembers="false"
+  IecExtendedConstants="true"
+  LogicalDirectory="C:\Users\supervisorio\Documents\miguel_a214_trabalho_final\MiguelA214Projeto\Logical\"
+  TempDirectory="C:\Users\supervisorio\Documents\miguel_a214_trabalho_final\MiguelA214Projeto\Temp\"
+  AutomationStudioVersion="4.1.14.40 SP"
+  AutomationStudioEdition="Standard"
+  CrossReference="false"
+  ActiveConfiguration="Config1"
+  CreateAnsiCDeclarations="false" />

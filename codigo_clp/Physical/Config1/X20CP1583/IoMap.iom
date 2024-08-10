@@ -1,0 +1,17 @@
+(********************************************************************
+ * COPYRIGHT --  
+ ********************************************************************
+ * File: IoMap.iom
+ * Author: supervisorio
+ * Created: June 12, 2024
+ ********************************************************************
+ * IO mapping file
+ ********************************************************************)
+VAR_CONFIG
+	::ProjetoMig:BIT1 AT %QX."X20CM8281".DigitalOutput01;
+	::ProjetoMig:BIT0 AT %QX."X20CM8281".DigitalOutput02;
+	::ProjetoMig:BIT5 AT %QX."X20DM9324".DigitalOutput01;
+	::ProjetoMig:BIT4 AT %QX."X20DM9324".DigitalOutput02;
+	::ProjetoMig:BIT3 AT %QX."X20DM9324".DigitalOutput03;
+	::ProjetoMig:BIT2 AT %QX."X20DM9324".DigitalOutput04;
+END_VAR

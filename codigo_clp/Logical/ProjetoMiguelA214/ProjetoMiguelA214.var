@@ -1,0 +1,23 @@
+(********************************************************************
+ * COPYRIGHT --  
+ ********************************************************************
+ * Program: ProjetoMiguelA214
+ * File: ProjetoMiguelA214.var
+ * Author: supervisorio
+ * Created: June 12, 2024
+ ********************************************************************
+ * Local variables of program ProjetoMiguelA214
+ ********************************************************************)
+VAR
+	SAIDA : INT;
+	TI : TON;
+	TI2 : TON;
+	TI3 : TON;
+	BIT0 : BOOL;
+	BIT1 : BOOL;
+	BIT2 : BOOL;
+	BIT3 : BOOL;
+	BIT4 : BOOL;
+	BIT5 : BOOL;
+	TI4 : TON;
+END_VAR
