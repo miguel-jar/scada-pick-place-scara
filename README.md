@@ -1,2 +1,4 @@
 # scada-pick-place-scara
-Aplicação pick n' place para robô scara da Stäubli, controlada através de um sistema SCADA, desenvolvido utilizando Elipse E3. No supervisório é possível selecionar o berço de origem e destino da peça. Ao pressionar o botão de início, o supervisório comunica via OPC UA com um PLC B&amp;R, que transmite via IO ao robô a origem e o destino da peça.
+Este repositório contém os códigos e arquivos de configuração para uma aplicação de "pick and place" desenvolvida para um robô SCARA da Stäubli.
+
+A interface supervisória foi construída utilizando o Elipse E3, permitindo a seleção intuitiva dos berços de origem e destino para a movimentação de peças. Uma vez que o usuário define as posições e aciona o botão de início, o sistema SCADA estabelece comunicação via OPC UA com um PLC B&R. O PLC, então, envia os comandos apropriados para o robô através de sinais I/O, garantindo a execução pda tarefa.
